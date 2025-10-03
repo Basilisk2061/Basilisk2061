@@ -3,17 +3,16 @@
 <h1 align="center">Hi 👋, I'm Arya Dahal</h1>
 
 <p align="center">
-🎓 Student at <b>Nepal Engineering College</b> <br>
-💻 Passionate about <b>Python</b>, <b>Machine Learning</b>, <b>Artificial Intelligence</b>, and <b>Game Development</b> <br>
-🚀 Exploring, learning, and building one project at a time
+Student at <b>Nepal Engineering College</b> <br>
+Passionate about <b>Python</b>, <b>Machine Learning</b>, <b>Artificial Intelligence</b>, and <b>Game Development</b> <br>
+Exploring, learning, and building one project at a time
 </p>
 
 ---
 
 ### About Me  
-- 🔭 Currently working on: **2D Local Multiplayer Game in Godot Engine**  
-- 🌱 Learning more about: **AI/ML & Game Development**  
-- 📫 Reach me at: **aryadahal61@gmail.com**  
+- Learning more about: **AI/ML & Game Development**  
+- Reach me at: **aryadahal61@gmail.com**  
 
 ---
 
