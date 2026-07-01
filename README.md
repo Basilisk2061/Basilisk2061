@@ -32,7 +32,7 @@ Passionate about building real-world applications using AI, Machine Learning, Fl
 ## Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,javascript,nodejs,express,flutter,dart,fastapi,mysql,git,github,unity,godot&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,javascript,flutter,fastapi,mysql,git,github,unity,godot&theme=dark" />
 </p>
 
 ---
