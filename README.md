@@ -60,7 +60,7 @@ Unity · Real-time Systems
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arya-dahal/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/aryadahal/">LinkedIn</a> •
   <a href="https://www.aryadahal.com.np">Portfolio</a> •
   <a href="mailto:aryadahal61@gmail.com">Email</a>
 </p>
